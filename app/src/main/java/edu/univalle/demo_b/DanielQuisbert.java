@@ -1,5 +1,5 @@
 package edu.univalle.demo_b;
 
 public class DanielQuisbert {
-    /*Daniel Quisbert QUISPE*/
+    /*Daniel Quisbert Quispe*/
 }
